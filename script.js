@@ -1270,6 +1270,135 @@ const zabFemaleMin = [
 "CSSI /private/index_color_tattoo,0"
 ]
 
+const monMaleMin = [
+"CSSI /shared_owner/blend_skinny,255",
+"CSSI /shared_owner/blend_muscle,0",
+"CSSI /shared_owner/blend_fat,0",
+"CSSI /shared_owner/blend_nosedepth_1,0",
+"CSSI /shared_owner/blend_eyesize_0,255",
+"CSSI /shared_owner/blend_nosedepth_0,255",
+"CSSI /shared_owner/blend_noselength_1,0",
+"CSSI /shared_owner/blend_eyesize_1,0",
+"CSSI /shared_owner/blend_cheeks_0,255",
+"CSSI /shared_owner/blend_eyedirection_0,255",
+"CSSI /shared_owner/blend_noselength_0,255",
+"CSSI /shared_owner/blend_eyedirection_1,0",
+"CSSI /shared_owner/blend_nosewidth_0,255",
+"CSSI /shared_owner/blend_nosewidth_1,0",
+"CSSI /shared_owner/blend_cheeks_1,0",
+"CSSI /shared_owner/blend_jaw_1,0",
+"CSSI /shared_owner/blend_jaw_0,255",
+"CSSI /shared_owner/index_color_skin,0",
+"CSSI /shared_owner/blend_lipwidth_0,255",
+"CSSI /shared_owner/blend_lipwidth_1,0",
+"CSSI /shared_owner/blend_lipfullness_0,255",
+"CSSI /shared_owner/blend_lipfullness_1,0",
+"CSSI /shared_owner/blend_ears_0,0",
+"CSSI /shared_owner/blend_ears_1,153",
+"CSSI /shared_owner/blend_chinsize_1,0",
+"CSSI /shared_owner/blend_chinsize_0,255",
+"CSSI /private/index_texture_1,0",
+"CSSI /private/index_color_pattern,0"
+]
+
+const monMaleMax = [
+"CSSI /shared_owner/blend_skinny,0",
+"CSSI /shared_owner/blend_muscle,255",
+"CSSI /shared_owner/blend_fat,255",
+"CSSI /shared_owner/blend_nosedepth_1,255",
+"CSSI /shared_owner/blend_eyesize_0,0",
+"CSSI /shared_owner/blend_nosedepth_0,0",
+"CSSI /shared_owner/blend_noselength_1,255",
+"CSSI /shared_owner/blend_eyesize_1,255",
+"CSSI /shared_owner/blend_cheeks_0,0",
+"CSSI /shared_owner/blend_eyedirection_0,0",
+"CSSI /shared_owner/blend_noselength_0,0",
+"CSSI /shared_owner/blend_eyedirection_1,255",
+"CSSI /shared_owner/blend_nosewidth_0,0",
+"CSSI /shared_owner/blend_nosewidth_1,255",
+"CSSI /shared_owner/blend_cheeks_1,255",
+"CSSI /shared_owner/blend_jaw_1,255",
+"CSSI /shared_owner/blend_jaw_0,0",
+"CSSI /shared_owner/index_color_skin,255",
+"CSSI /shared_owner/blend_lipwidth_0,0",
+"CSSI /shared_owner/blend_lipwidth_1,255",
+"CSSI /shared_owner/blend_lipfullness_0,0",
+"CSSI /shared_owner/blend_lipfullness_1,255",
+"CSSI /shared_owner/blend_ears_0,0",
+"CSSI /shared_owner/blend_ears_1,153",
+"CSSI /shared_owner/blend_chinsize_1,255",
+"CSSI /shared_owner/blend_chinsize_0,0",
+"CSSI /private/index_texture_1,27",
+"CSSI /private/index_color_pattern,255"
+]
+
+const monFemaleMin = [
+"CSSI /shared_owner/blend_skinny,255",
+"CSSI /shared_owner/blend_muscle,0",
+"CSSI /shared_owner/blend_fat,0",
+"CSSI /shared_owner/blend_nosedepth_1,0",
+"CSSI /shared_owner/blend_eyesize_0,255",
+"CSSI /shared_owner/blend_nosedepth_0,255",
+"CSSI /shared_owner/blend_noselength_1,0",
+"CSSI /shared_owner/blend_eyesize_1,0",
+"CSSI /shared_owner/blend_cheeks_0,255",
+"CSSI /shared_owner/blend_eyedirection_0,255",
+"CSSI /shared_owner/blend_noselength_0,255",
+"CSSI /shared_owner/blend_eyedirection_1,0",
+"CSSI /shared_owner/blend_nosewidth_0,255",
+"CSSI /shared_owner/blend_nosewidth_1,0",
+"CSSI /shared_owner/blend_cheeks_1,0",
+"CSSI /shared_owner/blend_jaw_1,0",
+"CSSI /shared_owner/blend_jaw_0,255",
+"CSSI /shared_owner/index_color_skin,0",
+"CSSI /shared_owner/blend_lipwidth_0,255",
+"CSSI /shared_owner/blend_lipwidth_1,0",
+"CSSI /shared_owner/blend_lipfullness_0,255",
+"CSSI /shared_owner/blend_lipfullness_1,0",
+"CSSI /shared_owner/blend_chinsize_1,0",
+"CSSI /shared_owner/blend_chinsize_0,255",
+"CSSI /private/index_color_3,0",
+"CSSI /private/index_texture_1,0",
+"CSSI /shared_owner/blend_flat_chest,255",
+"CSSI /shared_owner/blend_headsize_0,43",
+"CSSI /shared_owner/blend_headsize_1,0",
+"CSSI /shared_owner/blend_ear_0,0",
+"CSSI /shared_owner/blend_ear_1,0"
+]
+
+const monFemaleMax = [
+"CSSI /shared_owner/blend_skinny,0",
+"CSSI /shared_owner/blend_muscle,255",
+"CSSI /shared_owner/blend_fat,255",
+"CSSI /shared_owner/blend_nosedepth_1,255",
+"CSSI /shared_owner/blend_eyesize_0,0",
+"CSSI /shared_owner/blend_nosedepth_0,0",
+"CSSI /shared_owner/blend_noselength_1,255",
+"CSSI /shared_owner/blend_eyesize_1,255",
+"CSSI /shared_owner/blend_cheeks_0,0",
+"CSSI /shared_owner/blend_eyedirection_0,0",
+"CSSI /shared_owner/blend_noselength_0,0",
+"CSSI /shared_owner/blend_eyedirection_1,255",
+"CSSI /shared_owner/blend_nosewidth_0,0",
+"CSSI /shared_owner/blend_nosewidth_1,255",
+"CSSI /shared_owner/blend_cheeks_1,255",
+"CSSI /shared_owner/blend_jaw_1,255",
+"CSSI /shared_owner/blend_jaw_0,0",
+"CSSI /shared_owner/index_color_skin,255",
+"CSSI /shared_owner/blend_lipwidth_0,0",
+"CSSI /shared_owner/blend_lipwidth_1,255",
+"CSSI /shared_owner/blend_lipfullness_0,0",
+"CSSI /shared_owner/blend_lipfullness_1,255",
+"CSSI /shared_owner/blend_chinsize_1,255",
+"CSSI /shared_owner/blend_chinsize_0,0",
+"CSSI /private/index_color_3,255",
+"CSSI /private/index_texture_1,25",
+"CSSI /shared_owner/blend_flat_chest,255",
+"CSSI /shared_owner/blend_headsize_0,43",
+"CSSI /shared_owner/blend_headsize_1,0",
+"CSSI /shared_owner/blend_ear_0,0",
+"CSSI /shared_owner/blend_ear_1,0"
+]
 //HAIR
 const humanMaleHair = [
 "bald", "hum_m_hair_s27", "hum_m_hair_s28", "hum_m_hair_s01", "hum_m_hair_s02", "hum_m_hair_s03", "hum_m_hair_s04", "hum_m_hair_s05", "hum_m_hair_s06", "hum_m_hair_s07", "hum_m_hair_s08", "hum_m_hair_s09", "hum_m_hair_s10", "hum_m_hair_s11", "hum_m_hair_s12", "hum_m_hair_s13", "hum_m_hair_s14", "hum_m_hair_s15", "hum_m_hair_s16", "hum_m_hair_s17", "hum_m_hair_s18", "hum_m_hair_s19", "hum_m_hair_s20", "hum_m_hair_s21", "hum_m_hair_s22", "hum_m_hair_s23", "hum_m_hair_s24", "hum_m_hair_s25", "hum_m_hair_s26", "hum_m_hair_s54", "hum_m_hair_s29", "hum_m_hair_s30", "hum_m_hair_s31", "hum_m_hair_s32", "hum_m_hair_s33", "hum_m_hair_s34", "hum_m_hair_s35", "hum_m_hair_s37", "hum_m_hair_s38", "hum_m_hair_s39", "hum_m_hair_s40", "hum_m_hair_s41", "hum_m_hair_s43", "hum_m_hair_s43b", "hum_m_hair_s53"
@@ -1327,6 +1456,9 @@ const sulFemaleHair = ["none"]
 
 const wooMaleHair = ["none"]
 const wooFemaleHair = ["none"]
+
+const monMaleHair = ["none"]
+const monFemaleHair = ["none"]
 
 let hairOptions = humanMaleHair;
 
@@ -1600,6 +1732,17 @@ function updateSelection() {
 				hairOptions = zabFemaleHair;
 				minValues = zabFemaleMin;
 				maxValues = zabFemaleMax;
+			}
+			break;
+		case "moncalamari":
+			if (selectedGender == "male") {
+				hairOptions = monMaleHair;
+				minValues = monMaleMin;
+				maxValues = monMaleMax;
+			} else {
+				hairOptions = monFemaleHair;
+				minValues = monFemaleMin;
+				maxValues = monFemaleMax;
 			}
 			break;
 	}
